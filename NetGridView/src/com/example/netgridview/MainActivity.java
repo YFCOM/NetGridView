@@ -94,6 +94,7 @@ public class MainActivity extends Activity {
 		HashMap<String,Object> map6 = new HashMap<String, Object>();
 		list.add(map6);
 		
+		//20160629
 		imageGridView.setGridArrayList(list);
 		
 	}
